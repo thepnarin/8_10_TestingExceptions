@@ -1,0 +1,12 @@
+D:\[OOP] - Object Oriented Programming\Test\8_10_TestingExceptions\8_10_TestingExceptions\bin\Debug\8_10_TestingExceptions.exe.config
+D:\[OOP] - Object Oriented Programming\Test\8_10_TestingExceptions\8_10_TestingExceptions\bin\Debug\8_10_TestingExceptions.exe
+D:\[OOP] - Object Oriented Programming\Test\8_10_TestingExceptions\8_10_TestingExceptions\bin\Debug\8_10_TestingExceptions.pdb
+D:\[OOP] - Object Oriented Programming\Test\8_10_TestingExceptions\8_10_TestingExceptions\obj\Debug\8_10_TestingExceptions.csprojAssemblyReference.cache
+D:\[OOP] - Object Oriented Programming\Test\8_10_TestingExceptions\8_10_TestingExceptions\obj\Debug\8_10_TestingExceptions.exe
+D:\[OOP] - Object Oriented Programming\Test\8_10_TestingExceptions\8_10_TestingExceptions\obj\Debug\8_10_TestingExceptions.pdb
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\8_10_TestingExceptions\8_10_TestingExceptions\bin\Debug\8_10_TestingExceptions.exe.config
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\8_10_TestingExceptions\8_10_TestingExceptions\bin\Debug\8_10_TestingExceptions.exe
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\8_10_TestingExceptions\8_10_TestingExceptions\bin\Debug\8_10_TestingExceptions.pdb
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\8_10_TestingExceptions\8_10_TestingExceptions\obj\Debug\8_10_TestingExceptions.csprojAssemblyReference.cache
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\8_10_TestingExceptions\8_10_TestingExceptions\obj\Debug\8_10_TestingExceptions.exe
+C:\Users\Predator\Desktop\Udemy - NinjaTesting\8_10_TestingExceptions\8_10_TestingExceptions\obj\Debug\8_10_TestingExceptions.pdb
